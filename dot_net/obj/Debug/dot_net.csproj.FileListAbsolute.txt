@@ -1,0 +1,7 @@
+C:\Users\Pati\source\repos\dot_net\dot_net\bin\Debug\dot_net.exe.config
+C:\Users\Pati\source\repos\dot_net\dot_net\bin\Debug\dot_net.exe
+C:\Users\Pati\source\repos\dot_net\dot_net\bin\Debug\dot_net.pdb
+C:\Users\Pati\source\repos\dot_net\dot_net\obj\Debug\dot_net.csprojAssemblyReference.cache
+C:\Users\Pati\source\repos\dot_net\dot_net\obj\Debug\dot_net.csproj.CoreCompileInputs.cache
+C:\Users\Pati\source\repos\dot_net\dot_net\obj\Debug\dot_net.exe
+C:\Users\Pati\source\repos\dot_net\dot_net\obj\Debug\dot_net.pdb
